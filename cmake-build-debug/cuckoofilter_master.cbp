@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cuckoofilter_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cuckoofilter_master">
+				<Option output="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/cuckoofilter_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.9"/>
+					<Add directory="/usr/include/c++/4.9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 cuckoofilter_master"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cuckoofilter_master/fast">
+				<Option output="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/cuckoofilter_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.9"/>
+					<Add directory="/usr/include/c++/4.9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 cuckoofilter_master/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wfy/Downloads/cuckoofilter-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/benchmarks/bulk-insert-and-query.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/benchmarks/conext-figure5.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/benchmarks/conext-table3.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/benchmarks/random.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/benchmarks/timing.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/example/test.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/bitsutil.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/cuckoofilter.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/debug.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/hashutil.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/hashutil.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/packedtable.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/permencoding.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/printutil.cc">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/printutil.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/simd-block.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/src/singletable.h">
+			<Option target="cuckoofilter_master"/>
+		</Unit>
+		<Unit filename="/home/wfy/Downloads/cuckoofilter-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

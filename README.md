@@ -71,11 +71,11 @@ std::ifstream in("./input/ip_final.txt");
 
 BCF is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Feiyue Wang (wangfy@hust.edu.cn), Hanhua Chen (chen@hust.edu.cn), Liangyi Liao (liaoliangyi@hust.edu.cn), Fan Zhang (zhangf@hust.edu.cn), Hai Jin (hjin@hust.edu.cn)
 
-Copyright (C) 2017, [STCS & CGCL](http://grid.hust.edu.cn/) and [Huazhong University of Science and Technology](http://www.hust.edu.cn).
+Copyright (C) 2019, [STCS & CGCL](http://grid.hust.edu.cn/) and [Huazhong University of Science and Technology](http://www.hust.edu.cn).
 
 ## Publication
 
 If you want to know more detailed information, please refer to this paper:
 
 Feiyue Wang, Hanhua Chen, Liangyi Liao, Fan Zhang, Hai Jin. The Power of Better Choice: Reducing Relocations in Cuckoo Filter. ICDCS. Dallas, Texas, USA. July 7-10, 2019.
-# BCF
+
